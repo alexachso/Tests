@@ -14,8 +14,6 @@
                     Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
 
       </ResourceDictionary.MergedDictionaries>
-
-      <Style TargetType="CheckBox" BasedOn="{StaticResource MaterialDesignAccentCheckBox}" />
     </ResourceDictionary>
   </Application.Resources>
 </Application>
